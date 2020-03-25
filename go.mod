@@ -29,7 +29,7 @@ require (
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
 	google.golang.org/api v0.20.0
 	google.golang.org/appengine v1.6.5
-	google.golang.org/genproto v0.0.0-20200317114155-1f3552e48f24
+	google.golang.org/genproto v0.0.0-20200325114520-5b2d0af7952b
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 	gopkg.in/yaml.v2 v2.2.8
 )
